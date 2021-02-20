@@ -4,6 +4,7 @@ output:
   html_document:
     toc: false
 ---
+rmarkdown::render_site("www")
 
 Write stuff in Markdown here. Like **bold** things and *italic* things. 
 
